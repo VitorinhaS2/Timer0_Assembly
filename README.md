@@ -24,7 +24,7 @@ PORTD.1: LED
 - A cada interrupção, o estado do LED é invertido (liga ou desliga).
 - O ciclo se repete continuamente, mantendo o piscar constante do LED.
 
-**Arquivos**
+## **Arquivos**
 - Timer0.asm: Código-fonte principal em Assembly
 - README.md: Este arquivo de descrição
 
